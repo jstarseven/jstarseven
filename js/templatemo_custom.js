@@ -116,7 +116,7 @@ function loadChart(){
         xAxis : {
           type : 'circle',
           line : null,
-          ticks : ['形象','智慧','力量','态度','潜力','求知']
+          ticks : ['形象','智慧','编码','态度','潜力','求知']
         },
         yAxis : {
           title : null,
@@ -135,7 +135,7 @@ function loadChart(){
 	          {
 	              name : 'jstarseven',
 	              type: 'line',
-	              data: [8, 7, 5, 10, 9, 7]
+	              data: [8, 7, 9, 10, 9, 7]
 	          }
           ]
       });
